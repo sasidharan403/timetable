@@ -14,7 +14,8 @@ Add your timetable
 Execute the program
 
 # CODE
-~~~<!DOCTYPE html>
+~~~
+<!DOCTYPE html>
 <html>
 
    <head>
@@ -22,7 +23,7 @@ Execute the program
    </head>
 
    <body>
-      <img src=./logo.png>
+      <img src=./images/logo.png>
       <table border = "1" cellspacing="1" bordercolor="PURPLE" bgcolor="LIGHTGREY">
          <tr>
             <th colspan="8">TIME TABLE</th>
@@ -103,3 +104,4 @@ Execute the program
 </html>
 ~~~
 # OUTPUT
+![Timetable](./images/Timetableinwebsite.png)
